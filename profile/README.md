@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 🌈 Contribution guidelines - how can the community get involved?
+
+
 First get in touch with us and star our repositories! Thanks, much aloha!
 
 <!--
